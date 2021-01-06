@@ -4,7 +4,7 @@
   "description": "Please see Team Digital Designs' project portifio here:  [https://docs.google.com/presentation/d/16QFv8JjmIW0_XDhOlu1_q5TesVMT2_3SW0C9ipjwJ4U/edit?usp=sharing]",
   "main": "server.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "bootstrap": "^4.5.2",
     "case-sensitive-paths-webpack-plugin": "^2.3.0",
