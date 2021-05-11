@@ -18,7 +18,7 @@
     "gravatar": "^1.8.1",
     "has-flag": "^3.0.0",
     "has-yarn": "^2.1.0",
-    "hosted-git-info": "^2.8.8",
+    "hosted-git-info": "^2.8.9",
     "http-cache-semantics": "^4.1.0",
     "import-lazy": "^2.1.0",
     "imurmurhash": "^0.1.4",
